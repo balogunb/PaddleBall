@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=BouncingBallGame
+comment0.text=\r\n\ BouncingBallGame.java\ <p>\r\n\ \r\n\ Create\ a\ ball\ that\ bounces\ inside\ the\ window.\ <p>\r\n\ \r\n\ @author\ ...\r\n
+comment1.params=
+comment1.target=void\ run()
+comment1.text=the\ run\ method,\ control\ the\ animation
+comment2.params=
+comment2.target=void\ drawGraphics()
+comment3.params=
+comment3.target=void\ oneTimeStep()
+comment4.params=
+comment4.target=void\ checkCollision()
+comment5.params=ball1\ ball2
+comment5.target=double\ getDistance(acm.graphics.GOval,\ acm.graphics.GOval)
+comment6.params=ball1\ ball2
+comment6.target=double\ getAngle(acm.graphics.GOval,\ acm.graphics.GOval)
+comment7.params=point
+comment7.target=void\ mouseMoved(acm.graphics.GPoint)
+numComments=8
